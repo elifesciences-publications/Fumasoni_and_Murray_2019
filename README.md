@@ -5,13 +5,13 @@ The evolutionary plasticity of chromosome metabolism allows adaptation to DNA re
 =====================================================================================================================================
 
 The code was written in Python and designed to be run in an iPython Notebook or Jupiter Notebook environment.
-=============================================================================================================
+
 
 The code is made available for transparency reasons. At present, it is not intended to be readily usable on different datasets. Also, it was not annotated and compiled to be user-friendly. Please, contact me privately for any inquiry related to the code usage.
-====================================================================================================================================================================================================================================================================
+
 
 I will maintain this code with improved versions as soon as they are developed.
-===============================================================================
+
 
 *Marco Fumasoni*
 ================
