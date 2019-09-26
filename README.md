@@ -2,7 +2,7 @@ The folder contains the code I wrote in python to analyze the data used for the
 manuscript
 
 The evolutionary plasticity of chromosome metabolism allows adaptation to DNA replication stress, Fumasoni and Murray, bioRxiv, 2019.
-=====================================================================================================================================
+
 
 The code was written in Python and designed to be run in an iPython Notebook or Jupiter Notebook environment.
 
@@ -14,4 +14,4 @@ I will maintain this code with improved versions as soon as they are developed.
 
 
 *Marco Fumasoni*
-================
+
