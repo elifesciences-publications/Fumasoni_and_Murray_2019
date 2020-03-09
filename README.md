@@ -1,4 +1,4 @@
-### This code is associated with the paper from Fumasoni and Murray, "Purinergic regulation of vascular tone in the retrotrapezoid nucleus is specialized to support the drive to breathe". eLife, 2020. http://dx.doi.org/10.7554/eLife.51963
+### This code is associated with the paper from Fumasoni and Murray, "The evolutionary plasticity of chromosome metabolism allows adaptation to constitutive DNA replication stress". eLife, 2020. http://dx.doi.org/10.7554/eLife.51963
 
 The folder contains the code I wrote in python to analyze the data used for the
 manuscript
